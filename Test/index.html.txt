@@ -4,3 +4,4 @@ cde
 
 pdf
 ede
+git --amend
