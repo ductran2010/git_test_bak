@@ -2,3 +2,4 @@ adasc
 
 aefsdsdv
 git pull test
+git mergeを追加
